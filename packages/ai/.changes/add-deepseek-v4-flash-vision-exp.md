@@ -1,0 +1,1 @@
+- Added DeepSeek V4 Flash Vision Exp (`deepseek-v4-flash-vision-exp`) to the DeepSeek provider as a first-party, vision-capable, cost-efficient alternative to OpenRouter. ([#1942](https://github.com/PrimeIntellect-ai/prime-agent/pull/1942) by [@musichen](https://github.com/musichen))
